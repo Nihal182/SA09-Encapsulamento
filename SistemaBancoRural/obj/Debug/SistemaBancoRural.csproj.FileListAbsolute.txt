@@ -1,0 +1,8 @@
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\SistemaBancoRural\SistemaBancoRural\bin\Debug\SistemaBancoRural.exe.config
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\SistemaBancoRural\SistemaBancoRural\bin\Debug\SistemaBancoRural.exe
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\SistemaBancoRural\SistemaBancoRural\bin\Debug\SistemaBancoRural.pdb
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\SistemaBancoRural\SistemaBancoRural\obj\Debug\SistemaBancoRural.csproj.AssemblyReference.cache
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\SistemaBancoRural\SistemaBancoRural\obj\Debug\SistemaBancoRural.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\SistemaBancoRural\SistemaBancoRural\obj\Debug\SistemaBancoRural.csproj.CoreCompileInputs.cache
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\SistemaBancoRural\SistemaBancoRural\obj\Debug\SistemaBancoRural.exe
+C:\Users\Nayara\Desktop\SENAI\checklistOOP\SistemaBancoRural\SistemaBancoRural\obj\Debug\SistemaBancoRural.pdb
